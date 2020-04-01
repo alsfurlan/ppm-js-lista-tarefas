@@ -1,0 +1,12 @@
+li {
+    font-weight: bold;
+}
+
+.concluida {
+    color: green;
+    text-decoration: line-through;
+}
+
+.pendente {
+    color: red;
+}
